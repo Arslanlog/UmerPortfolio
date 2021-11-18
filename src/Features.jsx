@@ -48,7 +48,7 @@ const Features = () => {
                                 <div className="card">
                                     <div className="content">
                                         <div className="img">
-                                            <img src="assets/images/Team/Faseeh.jpg" alt="" />
+                                            <img src="assets/images/Team/faseeh.jpg" alt="" />
                                         </div>
                                         <div className="details">
                                             <div className="name">Faseeh ur Rehman</div>
@@ -84,7 +84,7 @@ const Features = () => {
                                 <div className="card">
                                     <div className="content">
                                         <div className="img">
-                                            <img src="assets/images/Team/kami.jpg" alt="" />
+                                            <img src="assets/images/Team/Kami.jpg" alt="" />
                                         </div>
                                         <div className="details">
                                             <div className="name">Kamran Mughal</div>

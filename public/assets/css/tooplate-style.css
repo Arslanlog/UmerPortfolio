@@ -118,12 +118,12 @@ b, strong {
 }
 
 .animated-item {
-  color: red;
+  color: #ffc200;
 }
 
 .animated-item {
-  font-size: 30px;
-  line-height: 50px;
+  font-size: 33px;
+  line-height: inherit;
   display: block;
   opacity: 0;
   overflow: hidden;

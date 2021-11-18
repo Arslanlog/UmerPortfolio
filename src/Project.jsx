@@ -26,8 +26,7 @@ const Project = () => {
                 <div className="slideshow-container">
                   {/* Full-width images with number and caption text */}
                   <div className="mySlides">
-                    <div className="numbertext">1 / 1</div>
-                    <video controls  preload="auto"  style={{ width: "1000px" }}>
+                    <video controls  preload="auto"  style={{ width: "80vw" }}>
                       <source src="assets/images/project/video1.mp4" type="video/mp4" />
                     </video>
                   </div>

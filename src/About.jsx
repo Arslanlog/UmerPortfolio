@@ -20,11 +20,11 @@ const About = () => {
                                     </div>
                                 </h1>
 
-                                <p>Building a successful product is a challenge. I am highly energetic in user experience design, Blender Artist and Game Developer.<br/><b style={{color:"red"}}>Members Of Dream Icons</b></p>
+                                <p>Building a successful product is a challenge. I am highly energetic in user experience design, Blender Artist and Game Developer.<br/><b style={{color:"#ffc200"}}>Members Of Dream Icons</b></p>
 
                                 <div class="custom-btn-group mt-4">
                                     <a href="assets/Cv/UmerRazaCv.pdf" target ="_blank" class="btn mr-lg-2 custom-btn"><i class='uil uil-file-alt'></i> Download Resume</a>
-                                    <a href="#contact" class="btn custom-btn custom-btn-bg custom-btn-link">Get a free quote</a>
+                                    <a href="#contact" class="btn custom-btn custom-btn-bg custom-btn-link">Contact</a>
                                 </div>
                             </div>
                         </div>

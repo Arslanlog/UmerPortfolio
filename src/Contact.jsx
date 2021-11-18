@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import axios from 'axios';
+// import axios from 'axios';
 const Contact = () => {
     const [user, setUser] = useState({
         Name: "",
@@ -9,13 +9,13 @@ const Contact = () => {
   async  function Submitdata(e) {
         const {Name, Email, Message} = user;
         e.preventDefault();
-       await axios.post("http://localhost:8080/Data",{
-            name: Name,
-                email: Email,
-                    message: Message
-        }).then((res)=>{
-            console.log(res.data);
-        })
+    //    await axios.post("http://localhost:8080/Data",{
+    //         name: Name,
+    //             email: Email,
+    //                 message: Message
+    //     }).then((res)=>{
+    //         console.log(res.data);
+    //     })
     }
     function HandleInputs(e) {
         let name = e.target.name, value = e.target.value;
